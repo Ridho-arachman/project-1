@@ -1,2 +1,1 @@
-# project-1
-Membuat repository project 1
+Belajar git
