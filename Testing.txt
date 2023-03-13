@@ -1,2 +1,5 @@
 -membuat html
 _membuat css
+-menggunakan framework is
+ •angular
+ •react
