@@ -1,0 +1,6 @@
+-memahami php dasar
+-memahami konsep MVC
+-memahami OOP
+-memahami framework php
+ •Laravel
+ •CodeIgniter
