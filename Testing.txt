@@ -1,8 +1,11 @@
 -membuat html
-_membuat css
+-membuat css
 -menggunakan framework php
  •Laravel
  •CodeIgniter
--menggunakan framework is
+-menggunakan framework js
  •react
  •vue
+-menggunakan framework python
+ •Django
+
