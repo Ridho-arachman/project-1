@@ -3,3 +3,6 @@ _membuat css
 -menggunakan framework php
  •Laravel
  •CodeIgniter
+-menggunakan framework is
+ •react
+ •vue
