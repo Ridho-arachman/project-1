@@ -1,5 +1,8 @@
 -membuat html
 _membuat css
+-menggunakan framework php
+ •Laravel
+ •CodeIgniter
 -menggunakan framework is
- •angular
  •react
+ •vue
